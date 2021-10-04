@@ -49,3 +49,6 @@
 
 [pull]
   rebase = false
+[user]
+	email = alena.a.bauer@gmail.com
+	name = Alena Bauer
